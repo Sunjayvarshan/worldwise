@@ -35,6 +35,30 @@
         "lng": "77.42655515670778"
       },
       "id": 98443203
+    },
+    {
+      "cityName": "Proddatur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-21T13:41:00.721Z",
+      "notes": "Aravind home",
+      "position": {
+        "lat": "14.75598009240994",
+        "lng": "78.53962898254396"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Tambaram",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-21T13:42:46.872Z",
+      "notes": "chennai Home",
+      "position": {
+        "lat": "12.952076349179128",
+        "lng": "80.17467048101237"
+      },
+      "id": 98443205
     }
   ]
 }
