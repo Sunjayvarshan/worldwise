@@ -1,40 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Thanjavur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-21T12:16:19.564Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "10.780697528442683",
+        "lng": "79.13589477539064"
       },
-      "id": 17806751
+      "id": 98443200
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Manamadurai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-21T12:34:40.317Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "9.795677582829743",
+        "lng": "78.22265625000001"
       },
-      "id": 98443197
+      "id": 98443201
+    },
+    {
+      "cityName": "Agastiswaram",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-21T12:45:29.064Z",
+      "notes": "home",
+      "position": {
+        "lat": "8.175469587260222",
+        "lng": "77.42655515670778"
+      },
+      "id": 98443203
     }
   ]
 }

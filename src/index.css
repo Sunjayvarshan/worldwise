@@ -76,3 +76,7 @@ input:focus {
     "description": "Import CSS Module as `styles`"
   },
 */
+
+::-webkit-scrollbar {
+  display: none;
+}
